@@ -1,8 +1,2 @@
 this is for testing purpose
-<<<<<<< HEAD
-<<<<<<< HEAD
 checkpoint 1
-=======
->>>>>>> 3a7c5a1c9d17db90d75c7d91496f4401de92fc06
-=======
->>>>>>> 3a7c5a1c9d17db90d75c7d91496f4401de92fc06
